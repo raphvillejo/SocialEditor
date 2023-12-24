@@ -1,3 +1,3 @@
 # SocialEditor
 
-HTML and Professional CSS (Flexbox and Grid and Animations etc)
+HTML and Professional CSS (Flexbox and Animations etc)
